@@ -1,7 +1,6 @@
 ﻿using System.Linq;
 using System.Collections.Generic;
 using System;
-
 namespace ConsoleApp2
 {
     public class Program
@@ -25,9 +24,7 @@ namespace ConsoleApp2
             Console.WriteLine();
         }
     }
-   
 }
-
 /*
  * 
  */
